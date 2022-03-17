@@ -61,7 +61,7 @@ Sou estudante de bacharelado em Ciência da Computação.
 </p>
  
  
- ![Snake animation](https://github.com/lincolnbuk/lincolnbuk/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/lincolnbuk/amndalsr/blob/output/github-contribution-grid-snake.svg)
   
 <div align="center">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lincolnbuk&theme=solarized_dark"/>
