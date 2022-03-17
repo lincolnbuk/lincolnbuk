@@ -56,6 +56,8 @@ Sou estudante de bacharelado em Ciência da Computação.
   <img src="https://profile-counter.glitch.me/lincolnbuk/count.svg" />  
 </p>
  
+  <div>
+ 
  ![Snake animation](https://github.com/lincolnbuk/blob/output/github-contribution-grid-snake.svg)
 
  </div>
