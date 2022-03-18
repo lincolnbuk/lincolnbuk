@@ -1,8 +1,13 @@
+<div align="center">
+ <h2>Welcome to my GitHub 🚀</h2>
+ 
+ <div align="left">
+  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Olá, meu nome é Adriano Lincoln
+## Hi, my name is Adriano Lincoln
 
-Bacharelando em Ciência da Computação, pela Unicap.
+I'm studying Computer Science, in the 6th period at Unicap.
 
 
 ## **Redes Sociais**
@@ -10,8 +15,9 @@ Bacharelando em Ciência da Computação, pela Unicap.
 <div>
  <a href = "https://api.whatsapp.com/send?phone=55819862339876&text=Enviar%20mensagem%20para%20Adriano%20Lincoln"> <img height="20" src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
  <a href = "mailto: drilincoln83@gmail.com"> <img height="20" src = "https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://github.com/"> <img height="25em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="http://www.linkedin.com/in/adrianolincoln"> <img height="23em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+ <a href = "mailto: sit-bull@hotmail.com"><img height="20" src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://github.com/"> <img height="20em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="http://www.linkedin.com/in/adrianolincoln"> <img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 </div>
   
@@ -33,12 +39,21 @@ Bacharelando em Ciência da Computação, pela Unicap.
    <img align="center" alt="Dj-HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Dj-CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Adriano-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-   <img align="center" alt="Amanda-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img align="center" alt="Amanda-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img align="center" alt="Amanda-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+   <img align="center" alt="Adriano-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img align="center" alt="Adriano-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img align="center" alt="Adriano-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+   <img align="center" alt="C#" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </a>
   </a>
   </a>
  </div>
+ 
+  <div style="display: inline_block">
+  <h3> In Progress: </h3>
+  <a href="https://github.com/DjalmaHenry">
+   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>  
  
  </div>
  
