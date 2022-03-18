@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Adriano Lincoln
+## Olá, meu nome é Adriano Lincoln
 
-Acadêmico de bacharelado em Ciência da Computação.
+Bacharelando em Ciência da Computação, pela Unicap.
 
 
 ## **Redes Sociais**
