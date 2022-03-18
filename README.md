@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Olá, sou Adriano Lincoln!
+## Adriano Lincoln
 
-Sou estudante de bacharelado em Ciência da Computação.
+Acadêmico de bacharelado em Ciência da Computação.
 
 
 ## **Redes Sociais**
@@ -15,7 +15,7 @@ Sou estudante de bacharelado em Ciência da Computação.
 
 </div>
   
-  ## GitHub Análise
+  ##  Análise
 
 <div align="start">
   <a href="https://github.com/lincolnbuk">
@@ -49,13 +49,13 @@ Sou estudante de bacharelado em Ciência da Computação.
 
   </div>
   
-  ## **Ferramentas de utilitários**
+  ## **Metodologias ageis**
   
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
   
 <div>
    
-## **Visitas no pefil - Atividade** 
+## **Perfil** 
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/lincolnbuk/count.svg" />  
 </p>
