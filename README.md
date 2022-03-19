@@ -13,7 +13,7 @@ I'm studying Computer Science, in the 6th period at Unicap.
 ## **Redes Sociais**
 
 <div>
- <a href = "https://api.whatsapp.com/send?phone=55819862339876&text=Enviar%20mensagem%20para%20Adriano%20Lincoln"> <img height="20" src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+ <a href = "https://api.whatsapp.com/send?phone=5581986233987&text=Enviar%20mensagem%20para%20Adriano%20Lincoln"> <img height="20" src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
  <a href = "mailto: drilincoln83@gmail.com"> <img height="20" src = "https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href = "mailto: sit-bull@hotmail.com"><img height="20" src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://github.com/"> <img height="20em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
