@@ -48,9 +48,9 @@ I'm studying Computer Science, in the 6th period at Unicap.
   </a>
  </div>
  
-  <div style="display: inline_block">
+  <div style="display: inline_block">lincolnbuk
   <h3> In Progress: </h3>
-  <a href="https://github.com/DjalmaHenry">
+  <a href="https://github.com/lincolnbuk">
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>  
@@ -71,9 +71,14 @@ I'm studying Computer Science, in the 6th period at Unicap.
 <div>
    
 ## **Perfil** 
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/lincolnbuk/count.svg" />  
-</p>
+>
+
+<hr>  
+
+<a href="https://github.com/davimateus1">
+<div style="display: inline_block" align="center">  
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=davimateus1&theme=blue-green"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimateus1&theme=blue-green"/>
  
  
  ![Snake animation](https://github.com/lincolnbuk/lincolnbuk/blob/output/github-contribution-grid-snake.svg)
