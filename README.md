@@ -23,11 +23,12 @@ I'm studying Computer Science, in the 6th period at Unicap.
   
   ##  Análise
 
-<div align="start">
-  <a href="https://github.com/lincolnbuk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lincolnbuk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnbuk&layout=compact&langs_count=7&theme=dracula"/>
+<hr>  
 
+<a href="https://github.com/davimateus1">
+<div style="display: inline_block" align="center">  
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=lincolnbuk&theme=blue-green"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnbuk&theme=blue-green"/>
    </div>
  
  
@@ -48,7 +49,7 @@ I'm studying Computer Science, in the 6th period at Unicap.
   </a>
  </div>
  
-  <div style="display: inline_block">lincolnbuk
+ 
   <h3> In Progress: </h3>
   <a href="https://github.com/lincolnbuk">
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -69,17 +70,6 @@ I'm studying Computer Science, in the 6th period at Unicap.
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)
   
 <div>
-   
-## **Perfil** 
->
-
-<hr>  
-
-<a href="https://github.com/davimateus1">
-<div style="display: inline_block" align="center">  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=davimateus1&theme=blue-green"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davimateus1&theme=blue-green"/>
- 
  
  ![Snake animation](https://github.com/lincolnbuk/lincolnbuk/blob/output/github-contribution-grid-snake.svg)
   
