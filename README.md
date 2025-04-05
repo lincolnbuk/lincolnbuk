@@ -7,7 +7,7 @@
 
 ## Hi, my name is Adriano Lincoln
 
-I'm studying Computer Science, in the 6th period at Unicap.
+I'm studying Computer Science, in the 8th period at Unicap.
 
 
 ## **Redes Sociais**
