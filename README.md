@@ -5,9 +5,9 @@
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Hi, my name is Adriano Lincoln
+## Hi, my name is Adriano 
 
-I'm studying Computer Science, in the 8th period at Unicap.
+Bachelor's degree in computer science
 
 
 ## **Redes Sociais**
