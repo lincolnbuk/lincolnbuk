@@ -19,17 +19,7 @@ Bachelor's degree in computer science
  <a href="https://github.com/"> <img height="20em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="http://www.linkedin.com/in/adrianolincoln"> <img height="20em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-</div>
-  
-  ##  Análise
-
-<hr>  
-
-<a href="https://github.com/davimateus1">
-<div style="display: inline_block" align="center">  
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=lincolnbuk&theme=blue-green"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnbuk&theme=blue-green"/>
-   </div>
+Bachelor's degree in computer science
  
  
 <div style="display: inline_block">
