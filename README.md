@@ -23,7 +23,6 @@ Bachelor's degree in computer science
  
 <div style="display: inline_block">
   <h3> SoftSkills: </h3>
-   <img align="center" alt="Angular" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
    <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Dj-HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
